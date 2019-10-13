@@ -1,0 +1,25 @@
+{
+  "name": "jss-plugin-rem-em-to-px",
+  "version": "1.0.0",
+  "description": "JSS plugin for converting all em and rem values to px",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeDuncko/jss-plugin-rem-em-to-px.git"
+  },
+  "keywords": [
+    "jss",
+    "rem",
+    "em",
+    "px"
+  ],
+  "author": "Joe Duncko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeDuncko/jss-plugin-rem-em-to-px/issues"
+  },
+  "homepage": "https://github.com/JoeDuncko/jss-plugin-rem-em-to-px#readme"
+}
