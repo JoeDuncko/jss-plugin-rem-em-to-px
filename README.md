@@ -57,9 +57,9 @@ const jss = create({
 
 Options:
 
-- `repeat`
+- `baseFontSize`
 
-Type: `Number`  
+Type: `Number`
 Default: none
 
 Sets the base font size. Most browsers default this to `16`. You probably should too.
